@@ -1,0 +1,27 @@
+body{
+	background: rgb(0,0,0);
+	color: rgb(999,999,999);
+	margin: 10px;
+	font-family: Arial, sans-serif;
+}
+h1{
+	color: white;
+	padding-left: 40%
+}
+p{
+	background-color: purple;
+}
+img{
+	width: 75%;
+	padding-left: 12%;
+	padding-bottom: 20px;
+}
+td{
+	padding-left: 50px;
+	padding-right: 50px;
+	text-decoration-color: white;
+}
+a{
+	color: rgb(999,999,999);
+}
+

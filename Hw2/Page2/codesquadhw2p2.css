@@ -1,0 +1,29 @@
+body{
+	background-color: rgb(0 0 0);
+	color: rgb(255 255 255);
+	font-family: Arial, sans-serif;
+}
+h1{
+	text-align: center;
+}
+div{
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-top: 50px;
+	float: left;
+	border: white solid;
+	
+}
+table{
+	background-color:rgb(200 20 150);
+	border-color: white;
+	padding: 305;
+}
+li{
+	background-color: white;
+	color: black;
+	list-style-type: none;
+}
+a{
+	color: white;
+}
