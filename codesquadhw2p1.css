@@ -1,0 +1,38 @@
+body{
+	background: rgb(0,0,0);
+	color: rgb(999,999,999);
+	margin: 10px;
+	font-family: Arial, sans-serif;
+}
+h1{
+	color: white;
+	padding-left: 40%
+}
+p{
+	background-color: purple;
+}/*
+div{
+	padding-left: 12%
+}*/
+img{
+	height: 500px;
+	padding-left: 12%
+/*	margin:auto;*/
+
+}
+table{
+	align-self: auto;
+	size: 30%;
+}
+td{
+	padding-left: 50px;
+	padding-right: 50px;
+	text-decoration-color: white;
+}
+a{
+	color: rgb(999,999,999);
+}
+.btn.btn-default{
+	background-color: white;
+	color:black;
+}
