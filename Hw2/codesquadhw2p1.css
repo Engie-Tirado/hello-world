@@ -1,20 +1,31 @@
 body{
-	background: rgb(0,0,0);
-	color: rgb(999,999,999);
+	text-align: center;
 	margin: 10px;
 	font-family: Arial, sans-serif;
+	background-color: rgb(100 5 200);
+	color: white;
 }
 h1{
-	color: white;
-	padding-left: 40%
+	
+	margin-top: 40px;
+	text-align: center;
 }
 p{
-	background-color: purple;
+	margin-top: 10px;
+	font-size: 25px;
+	font-family: comic sans ms, sans-serif;
+	color: white;
 }
+
 img{
-	width: 75%;
-	padding-left: 12%;
-	padding-bottom: 20px;
+	height: 250px;
+	width: 500px;
+	margin: 30px;
+}
+table{
+	margin-top: 30px;
+	align-self: auto;
+	size: 30%;
 }
 td{
 	padding-left: 50px;
@@ -22,6 +33,17 @@ td{
 	text-decoration-color: white;
 }
 a{
-	color: rgb(999,999,999);
+	color: rgb(180,50,100);
 }
-
+.btn.btn-default{
+	background-color: pink;
+	color:black;
+}
+.container{
+	border-style: solid;
+	width: 600px;
+}
+footer{
+	margin-top: 40px;
+	text-align: left;
+}

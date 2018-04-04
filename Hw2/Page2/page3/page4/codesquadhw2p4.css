@@ -1,5 +1,9 @@
 body{
+    text-align: center;
 	margin: 10px;
+	font-family: Arial, sans-serif;
+	background-color: rgb(100 5 200);
+	color: white;
 }
 img{
 	width: 300px;
@@ -11,5 +15,10 @@ div{
 	float: left;
 	text-align: center;
 	padding: 10px;
+	margin-bottom: 200px;
 	
+}
+footer{
+	text-align: left;
+	width: 200px;
 }
